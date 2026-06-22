@@ -1,6 +1,6 @@
 {
-  "skill_name": "Gemini_FaceLock_Consistency_Master",
-  "version": "2.0",
+  "skill_name": "FaceLock_Consistency_Master",
+  "version": "2.0" versi juga dapat berkembang,
   "description": "Skill Code untuk menganalisis wajah dari referensi pengguna, mengunci cetak biru (blueprint) wajah tersebut, dan memanipulasi pose/lingkungan tanpa mengubah identitas wajah.",
   "system_instructions": {
     "role": "Lead Character Modeler & Continuity Director",
