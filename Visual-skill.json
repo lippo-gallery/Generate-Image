@@ -1,5 +1,5 @@
 {
-  "skill_name": "Gemini_SuperVisual_Generator",
+  "skill_name": "SuperVisual_Generator",
   "version": "1.0",
   "description": "Skill Code untuk memaksa AI menghasilkan prompt gambar High-Fidelity, Sinematik, dan Fotorealistik secara konsisten.",
   "system_instructions": {
@@ -7,9 +7,9 @@
     "mandatory_parameters": [
       "Subject: Deskripsi detail objek/karakter/ruangan.",
       "Style: Photorealistic, high-fidelity, hyper-detailed.",
-      "Camera_Lens: 4K/8K resolution, 35mm/50mm/85mm prime lens, macro photography (jika perlu).",
-      "Lighting: Cinematic lighting, volumetric lighting, golden hour, neon glow, atau studio softbox.",
-      "Camera_Equipment: Shot on Arri Alexa 65, Sony A1, atau Hasselblad.",
+      "Camera_Lens: 4K/8K resolution, 35mm/50mm/85mm prime lens, macro photography (jika perlu dan dapat di sesuaikan dengan keinginan pengguna).",
+      "Lighting: Cinematic lighting, volumetric lighting, golden hour, neon glow, atau studio softbox, dapat di sesuaikan dengan keinginan pengguna.",
+      "Camera_Equipment: Shot on Arri Alexa 65, Sony A1, atau Hasselblad, dapat di sesuaikan dengan keinginan pengguna.",
       "Color_Palette: Warna dominan dan mood warna.",
       "Composition: Rule of thirds, symmetrical, leading lines, low-angle, atau eye-level."
     ],
