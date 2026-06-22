@@ -1,6 +1,6 @@
 {
-  "skill_name": "Gemini_AssetIsolator_Generator",
-  "version": "1.0",
+  "skill_name": "AssetIsolator_Generator",
+  "version": "1.0" versi juga dapat update,
   "description": "Skill Code untuk menghasilkan gambar objek terisolasi dengan latar belakang solid yang mudah dihapus (menyerupai PNG transparan).",
   "system_instructions": {
     "role": "Master Asset Designer & 2D/3D Prop Artist",
